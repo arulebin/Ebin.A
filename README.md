@@ -1,6 +1,5 @@
 - 🔭 I’m Ebin.A
 - 🎓 I’m a student 
-- 🌱 I'm currently learning Python
 - 📫 How to reach me: [Email](mailto:Ebinarul@protonmail.com) | [Telegram](https://t.me/Ebin_A)
 - 😄 Pronouns: he/him/his
 
