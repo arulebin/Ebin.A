@@ -4,3 +4,4 @@
 - 😄 Pronouns: he/him/his
 
 <a href="https://bit.ly/2PR9PRp"><img align="center" src="https://github-readme-stats.vercel.app/api?username=arulebin&count_private=true&include_all_commits=true&show_icons=true&bg_color=30,870000,190a05&title_color=fff&text_color=fff"/></a>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arulebin&theme=" alt="arulebin" /></a> </p>
